@@ -1,0 +1,6 @@
+[submodule "master"]
+	path = master
+	url = https://github.com/tmc1245/welcome-to-working-copy/tree/master
+[submodule "local"]
+	path = local
+	url = https://github.com/tmc1245/hello-world
